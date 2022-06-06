@@ -1,0 +1,18 @@
+{
+  "name": "portafolio-lucas-barroca",
+  "version": "1.0.0",
+  "description": "Portafolio Version 2022",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucas3982"
+  },
+  "author": "Jorge Lucas Barroca",
+  "license": "ISC",
+  "dependencies": {
+    "eins-modal": "^2.2.2"
+  }
+}
